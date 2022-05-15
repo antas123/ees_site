@@ -1,0 +1,105 @@
+body{
+  text-align: center;
+  margin: 0;
+  background-color: #F1EEE9;
+}
+.header{
+  padding: 15px;
+  background-color: #874356;
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+}
+hr{
+  width: 40%;
+  color: grey;
+  border-style: solid;
+  border-color: grey;
+}
+.a{
+  font-family: sans-serif;
+  font-size: 1.4rem;
+  padding: 80px;
+  line-height: 30px;
+  color: grey;
+}
+.hod{
+  margin: 30px 100px 10px 100px;
+  padding: 30px 100px 10px 100px;
+  background-color: #D3DEDC;
+  box-shadow: 7px 5px 10px grey;
+}
+.hod img{
+  border-radius: 50%;
+  border-style: solid;
+  border-color: grey;
+}
+.tab{
+  padding: 50px 0 30px 0;
+  background-color: white;
+  margin: 40px auto 5px auto;
+  box-shadow: -7px 5px 10px grey;
+}
+.pf{
+  margin: 0 115px 0 115px;
+  border-radius: 50%;
+}
+.ass{
+  padding: 55px 20px 5px 20px;
+  background-color: #FEFBF3;
+    margin: 40px 100px 5px 100px;
+      box-shadow: 7px 5px 10px grey;
+}
+.as{
+  border-radius: 50%;
+  margin: 0 70px 0 70px;
+}
+#anura{
+  height: 175px;
+  width: 184px;
+}
+#jit{
+  height: 175px;
+  width: 184px;
+}
+#mks{
+  height: 175px;
+  width: 184px;
+}
+#rani{
+  height: 175px;
+  width: 184px;
+  border-radius: 50%;
+}
+#bharat{
+  height: 175px;
+  width: 184px;
+  border-radius: 50%;
+}
+.ctr{
+  padding:  30px 0 30px 0;
+  background-color: white;
+  margin: 40px auto 5px auto;
+    box-shadow: -7px 5px 10px grey;
+}
+.Associate{
+    margin: 0 30px 0 30px;
+    border-radius: 50%;
+}
+.ctr2{
+  padding: 30px 0 30px 0;
+  background-color:  #FEFBF3;
+  margin: 40px auto 30px auto;
+    box-shadow: 7px 5px 10px grey;
+}
+.Associate23{
+  height: 177px;
+  width: 184px;
+  border-radius: 50%;
+  margin:  0 50px 0 50px;
+}
+
+footer{
+  padding: 2px;
+  background-color: #874356;
+  color: white;
+}
